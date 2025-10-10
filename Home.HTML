@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Azure Bliss Hotel & Spa</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Azure Bliss 🌸</div>
+    <nav>
+      <a onclick="navigate('home')">Home</a>
+      <a onclick="navigate('rooms')">Rooms</a>
+      <a onclick="navigate('spa')">Spa</a>
+      <a onclick="navigate('gallery')">Gallery</a>
+      <a onclick="navigate('contact')">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <!-- HOME -->
+    <section id="home" class="active">
+      <div class="hero">
+        <div class="hero-content">
+          <h1>Welcome to Azure Bliss Hotel & Spa</h1>
+          <p>Where vibrant comfort meets colorful relaxation. Escape into serenity today!</p>
+          <button class="btn" onclick="navigate('rooms')">Explore Rooms</button>
+        </div>
+      </div>
+    </section>
