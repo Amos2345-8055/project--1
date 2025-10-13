@@ -1,4 +1,4 @@
-[Check out my website]()
+[Check out my website](http://172.16.1.206:8000)
 
 Project Report: Azure Bliss Hotel & Spa Website
 1. Project Overview
