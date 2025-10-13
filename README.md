@@ -1,6 +1,4 @@
-[Check out my website](http://172.16.1.206:8000)
-
-Project Report: Azure Bliss Hotel & Spa Website
+   Project Report: Azure Bliss Hotel & Spa Website
 1. Project Overview
    
 The Azure Bliss Hotel & Spa Website is a Single Page Application (SPA) designed to showcase hotel rooms, spa services, a gallery, contact information, and booking options. The website provides a modern, visually appealing, and user-friendly experience for potential customers.
