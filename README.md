@@ -1,3 +1,5 @@
+[Check out my website](http://127.0.0.1:8000/)
+
 Project Report: Azure Bliss Hotel & Spa Website
 1. Project Overview
    
