@@ -1,4 +1,4 @@
-[Check out my website](file:///C:/Users/cse/Desktop/SPA.html)
+[Check out my website]()
 
 Project Report: Azure Bliss Hotel & Spa Website
 1. Project Overview
