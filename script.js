@@ -21,5 +21,6 @@ form.onsubmit = function(event) {
   var room = document.getElementById('roomType').value;
   
   alert("Thank you, " + name + "! Your " + room + " has been booked successfully.");
-  navigate('home');
+  
 };
+
